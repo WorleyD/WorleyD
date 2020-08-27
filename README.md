@@ -5,7 +5,7 @@ I'm a 5th year CS and Math double major at UWindsor, working full time at Amika 
 ### About Me:
 
 - 🔭 I’m currently interested in Graph Theory, Computational Geometry, and Competitive Programming 
-- 🌱 I’m currently learning Rust by developing a small computational geometry 
+- 🌱 I’m currently learning Rust by developing a small computational geometry library
 - 📫 How to reach me: email preferred
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:   I was vice-chair of the Canadian Undergraduate Computer Science Conference in 2019
