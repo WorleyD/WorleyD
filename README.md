@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a 5th year CS and Math double major at UWindsor, working full time at Amika Mobile during the Summer, part time during the school term. Interested in pursuing a Masters in a discrete math related field.
+I'm a 5th year CS and Math double major at UWindsor, working full time at Genasys during the Summer, part time during the school term. Interested in pursuing a Masters in a discrete math related field.
 
 ### About Me:
 
